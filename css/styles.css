@@ -1,0 +1,21 @@
+html {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.main__title,
+.footer__paragraph {
+  background-color: aqua;
+  text-align: center;
+}
+
+.main__title {
+  font-size: 2.5rem;
+}
+
+.footer__paragraph {
+  font-size: 1.3rem;
+}
